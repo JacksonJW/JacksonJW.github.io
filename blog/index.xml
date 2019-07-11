@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jackson Watkins</title>
-    <link>https://jacksonjwatkins.com/</link>
-    <description>Recent content on Jackson Watkins</description>
+    <title>Blogs on Jackson Watkins</title>
+    <link>https://jacksonjwatkins.com/blog/</link>
+    <description>Recent content in Blogs on Jackson Watkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 10 Jul 2019 16:14:07 -0700</lastBuildDate>
     
-	<atom:link href="https://jacksonjwatkins.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jacksonjwatkins.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://jacksonjwatkins.com/blog/coming-soon/</guid>
       <description> Coming Soon! </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://jacksonjwatkins.com/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://jacksonjwatkins.com/projects/</guid>
-      <description>YoYoYo</description>
     </item>
     
   </channel>
