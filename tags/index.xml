@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jackson Watkins</title>
-    <link>https://jacksonjw.github.io/tags/</link>
+    <link>http://jacksonjwatkins.com/tags/</link>
     <description>Recent content in Tags on Jackson Watkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://jacksonjw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jacksonjwatkins.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>projects</title>
-      <link>https://jacksonjw.github.io/tags/projects/</link>
+      <link>http://jacksonjwatkins.com/tags/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://jacksonjw.github.io/tags/projects/</guid>
+      <guid>http://jacksonjwatkins.com/tags/projects/</guid>
       <description></description>
     </item>
     
